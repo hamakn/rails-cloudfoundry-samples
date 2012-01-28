@@ -1,0 +1,3 @@
+[submodule "rails31-ruby19-mysql"]
+	path = rails31-ruby19-mysql
+	url = git://github.com/hamakn/rails31-ruby19-mysql-cf.git
